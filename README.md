@@ -92,8 +92,7 @@ The CNN architecture includes the following layers:
 
 The main findings of the code can be found at the post on Medium available : 
 https://medium.com/@hanyue856/building-a-cnn-for-cat-and-dog-image-classification-with-tensorflow-and-keras-ac028f6b5927
-```
-```
+
 ---
 
 ## 7. Acknowledgements
